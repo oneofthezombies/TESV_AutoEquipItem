@@ -1,0 +1,1 @@
+# TESV_AutoEquipItem
